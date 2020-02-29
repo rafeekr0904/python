@@ -1,4 +1,4 @@
-# python script to collect data from websites and write it into the CSV file saved in the seperate directory.
+# python script to collect data from websites and write it into the CSV file and saved in the seperate directory( script downloads images also)
 
 Requirement for this projects
 
