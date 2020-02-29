@@ -1,4 +1,4 @@
-# python script to collect data from websites and write it into the CSV file and saved in the seperate directory( script downloads images also)
+# python script to collect data from websites, write it into the CSV file ( script downloads images also)
 
 Requirement for this projects
 
@@ -10,6 +10,10 @@ output - csv file contain all the details of the product, title, desc, sku, pric
 This script collects data from zara website and you can collect data from any website by changing some of the codes.
 
 Python 3, Beautiful soap and selenium webdriver module used
+
+run the script in command line.
+
+python data-collect.py
 
 
 
