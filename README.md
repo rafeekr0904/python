@@ -9,7 +9,7 @@ output - csv file contain all the details of the product, title, desc, sku, pric
 
 This script collects data from zara website and you can collect data from any website by changing some of the codes.
 
-Python 3 and Beautiful soap module used/
+Python 3, Beautiful soap and selenium webdriver module used
 
 
 
